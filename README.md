@@ -1,16 +1,16 @@
-# Testes Automatizados com JavaScript
+# Aulão Testes Automatizados com JavaScript Like a Pro - Template
 
-Você precisará usar o Node.js na versão 20 (ou superior) para executar os exemplos:
+Olá, seja muito bem vindo(a) esse é o template inicial que vamos trabalhar no Aulão.
 
+Você precisará usar o Node.js na versão 20 (ou superior) para executar os exemplos
 ```sh
 node -v
-# v20.5.1
+# v20.5.0
 ```
 
 ## Rodando
 
 Restaure as dependencias e execute o projeto:
-
 ```sh
 npm ci --silent
 npm start
@@ -31,3 +31,7 @@ Token capturado: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiZXJpY2t3ZW5kZW
 
 Resposta da rota privada: {"result":"Hey welcome!"}
 ```
+
+## Valeu
+- Considere me seguir nas redes sociais e deixar um star nesse projeto!
+- Valeu!
